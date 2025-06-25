@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 a = input("Give me a number: ")
 x = a.isdecimal()
 
